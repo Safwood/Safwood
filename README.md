@@ -16,13 +16,13 @@ I can create layout, adaptive and cross-browser websites.
 # Projects:
 
 ### Taxi ordering 
-Application for ordering a taxi as part of the course on `React` / `Redux` / `Saga` http://loft-taxi.safwood.tmweb.ru
+Application for ordering a taxi as part of the course on `React` / `Redux` / `Saga` 
+http://loft-taxi.safwood.tmweb.ru
 
 ### Adaptive website (pure JS)
 http://chocco.safwood.tmweb.ru
 
-### Static layout website
-https://air-asia.safwood.tmweb.ru
-
 ### Service for travellers
-React / team work - https://heyheyjude.github.io/travel-app/#/
+React / team work - 
+1) https://heyheyjude.github.io/travel-app/#/
+2) https://rslang.pet-projects.ru/ 
