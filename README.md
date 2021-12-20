@@ -17,12 +17,17 @@ I can create layout, adaptive and cross-browser websites.
 
 ### Taxi ordering 
 Application for ordering a taxi as part of the course on `React` / `Redux` / `Saga` 
-http://loft-taxi.safwood.tmweb.ru
+Deploy: https://safwood.github.io/loft-taxi/#/ (Тестовые логин и пароль email@example.com / password)
+Github: https://github.com/Safwood/loft-taxi
 
-### Adaptive website (pure JS)
-http://chocco.safwood.tmweb.ru
+### Игра на React JS (React + Typescript)
+Deploy: https://safwood.github.io/react-game/
+Github: https://github.com/Safwood/react-game/tree/react-game
 
-### Service for travellers
-React / team work - 
-1) https://heyheyjude.github.io/travel-app/#/
-2) https://rslang.pet-projects.ru/ 
+### Фильтрация + сортировка авиабилетов (React)
+Deploy: https://safwood.github.io/Flights/
+Github: https://github.com/Safwood/Flights
+
+### Командная разработка на ReactJS. Полноценные сайты (backend+frontend)
+1) https://heyheyjude.github.io/travel-app/#/ (мой вклад: страница страны, подключение карты, валюты, видео, перевод на два языка, авторизация на сервере)
+2) https://rslang.pet-projects.ru/ (мой вклад в проект: верстка всего сайта, material UI, разделы "Настройки" и "Словарь", React-router-dom.)
