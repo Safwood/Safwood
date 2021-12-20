@@ -27,4 +27,4 @@ Github: https://github.com/Safwood/Flights
 2) https://rslang.pet-projects.ru/ (мой вклад в проект: верстка всего сайта, material UI, разделы "Настройки" и "Словарь", React-router-dom.)
 
 ### Проект в процессе разработки (ООП чистый js на классах)
-Deploy: https://github.com/Safwood/1920607-big-trip-16
+Github: https://github.com/Safwood/1920607-big-trip-16
